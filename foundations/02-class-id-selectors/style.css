@@ -1,18 +1,18 @@
-p{
+.odd{
     background-color: lightpink;
     font-family: Verdana, DejaVu, sans-serif;
 }
 
-#number2{
+#two{
     color:blue;
     font-size: 36px;
 }
 
-.number3{
+.cooler{
     font-size: 24px;
 }
 
-#number4{
+#four{
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
